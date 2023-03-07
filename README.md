@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+<h1 align="center"><i>WeatherPointer</i></h1>
+<img src="http://wpuploads.appadvice.com/wp-content/uploads/2016/01/Wild-Weather-banner.png" alt="weather-banner-error"/>
+<li>The weather application developed using ReactJS utilizes two powerful APIs, GeoDB Cities and OpenWeather. This application allows users to search for the weather information of any city across the globe.</li>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<li>The GeoDB Cities API provides an extensive database of cities worldwide, including their geolocation data. This information is used to fetch the relevant weather data from the OpenWeather API, which provides real-time weather information like temperature, wind speed, humidity, and more.</li>
 
-## Available Scripts
+<li>The application interface is designed to be user-friendly, with an intuitive search bar that allows users to quickly search for the city they want to check the weather for. The search results are displayed in a list view, and users can select a specific city to see the current weather conditions, including the temperature, wind speed, humidity, and more.</li>
 
-In the project directory, you can run:
+<li>In addition, the application also provides a five-day weather forecast for the selected city, allowing users to plan their activities accordingly. The weather information is displayed in an easy-to-read format, with graphical representations of the weather conditions over the next five days.</li>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<li>Overall, this weather application developed using ReactJS, GeoDB Cities, and OpenWeather API is an excellent tool for anyone who wants to keep track of the weather conditions in any part of the world. Its intuitive interface and accurate weather information make it a must-have app for all weather enthusiasts.</li>
