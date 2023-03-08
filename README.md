@@ -1,4 +1,4 @@
-<h1 align="center"><i>WeatherPointer</i></h1>
+<h1 align="center"><i>WildWeather</i></h1>
 <img src="http://wpuploads.appadvice.com/wp-content/uploads/2016/01/Wild-Weather-banner.png" alt="weather-banner-error"/>
 <li>The weather application developed using ReactJS utilizes two powerful APIs, GeoDB Cities and OpenWeather. This application allows users to search for the weather information of any city across the globe.</li>
 
